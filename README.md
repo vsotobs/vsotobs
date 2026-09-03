@@ -16,11 +16,11 @@ Me apasiona transformar datos espaciales y territoriales en soluciones estratég
 
 Mi trabajo se enfoca principalmente en el análisis y desarrollo de soluciones geoespaciales, combinando herramientas SIG, bases de datos y tecnologías web.
 
-SIG: ArcGIS Pro, ArcMap, QGIS, Google Earth Engine
-Datos geoespaciales: PostgreSQL, PostGIS, GeoServer
-Desarrollo y Web Mapping: Python, Leaflet, HTML, CSS, Java, Git/GitHub
-Análisis y visualización: Excel, Power BI
-Infraestructura: Apache Tomcat
+**Sistemas de Información Geográfica:** ArcGIS Pro, ArcMap, QGIS, Google Earth Engine.
+**Datos geoespaciales:** PostgreSQL, PostGIS, GeoServer
+**Desarrollo y Web Mapping:** Python, Leaflet, HTML, CSS, Java, Git/GitHub
+**Análisis y visualización:** Excel, Power BI
+**Infraestructura:** Apache Tomcat
 
 También cuento con capacitaciones y certificaciones relacionadas con herramientas SIG y con la normativa ambiental chilena, particularmente en materias asociadas al Sistema de Evaluación de Impacto Ambiental (SEIA).
 
