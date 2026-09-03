@@ -1,4 +1,4 @@
-# ¡Hola a todos! Soy Valeria Scarlet Soto Bastías
+# ¡Hola a todos! Soy Valeria Soto Bastías
 
 <p align="left">
   <img src="https://img.shields.io/badge/Geógrafa-UdeC-blue?style=flat-square" alt="Geógrafa UdeC">
