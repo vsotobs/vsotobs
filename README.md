@@ -12,6 +12,8 @@ Soy **Geógrafa** titulada de la Universidad de Concepción y cuento con un Dipl
 Me apasiona transformar datos espaciales y territoriales en soluciones estratégicas mediante el uso de herramientas geomáticas avanzadas como ArcGIS Pro, QGIS y bases de datos espaciales.
 
 ---
+### ¿En qué áreas me desarrollo? 
+
 Mi trabajo se enfoca principalmente en el análisis y desarrollo de soluciones geoespaciales, combinando herramientas SIG, bases de datos y tecnologías web.
 
 SIG: ArcGIS Pro, ArcMap, QGIS, Google Earth Engine
@@ -21,6 +23,7 @@ Análisis y visualización: Excel, Power BI
 Infraestructura: Apache Tomcat
 
 También cuento con capacitaciones y certificaciones relacionadas con herramientas SIG y con la normativa ambiental chilena, particularmente en materias asociadas al Sistema de Evaluación de Impacto Ambiental (SEIA).
+
 ---
 
 ### Experiencia Destacada
