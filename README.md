@@ -12,20 +12,21 @@ Soy **Geógrafa** titulada de la Universidad de Concepción y cuento con un Dipl
 Me apasiona transformar datos espaciales y territoriales en soluciones estratégicas mediante el uso de herramientas geomáticas avanzadas como ArcGIS Pro, QGIS y bases de datos espaciales.
 
 ---
+Mi trabajo se enfoca principalmente en el análisis y desarrollo de soluciones geoespaciales, combinando herramientas SIG, bases de datos y tecnologías web.
 
-### Habilidades Técnicas y Herramientas SIG
-* **Sistemas de Información Geográfica:** ArcMap, ArcGIS Pro, QGIS, Google Earth Engine.
-* **Bases de Datos y Desarrollo Geoespacial:** PostGIS, GeoServer, PostgreSQL, Apache Tomcat.
-* **Desarrollo Web Mapping / Programación:** Python, Leaflet, Java, HTML, CSS, GitHub.
-* **Microsoft Office:** Power BI, Excel, Word.
+SIG: ArcGIS Pro, ArcMap, QGIS, Google Earth Engine
+Datos geoespaciales: PostgreSQL, PostGIS, GeoServer
+Desarrollo y Web Mapping: Python, Leaflet, HTML, CSS, Java, Git/GitHub
+Análisis y visualización: Excel, Power BI
+Infraestructura: Apache Tomcat
 
-Además, cuento con capacitaciones y certificaciones asociadas al manejo de softwares SIG y como también a normativa ambiental correspondiente al Sistema de Evaluación de Impacto Ambiental en Chile. 
-
----
+También cuento con capacitaciones y certificaciones relacionadas con herramientas SIG y con la normativa ambiental chilena, particularmente en materias asociadas al Sistema de Evaluación de Impacto Ambiental (SEIA).
 
 ### Experiencia Destacada
-* **Analista SIG en IDG TerraGIS:** Proyecto en alianza con Gas Sur de geolocalización y análisis de áreas de extracción de gas natural dando como resultado principal más de 12.000 clientes potenciales distribuidos en 6 comunas.
-* **EGSCIENCES:** Análisis de Susceptibilidad de remoción en masa en las comunas de Quilicura y Huechuraba, Santiago, Región Metropolitana, Chile.
+| Proyecto                                    | Área                                     | Tecnologías / herramientas |
+| ------------------------------------------- | ---------------------------------------- | -------------------------- |
+| **Geolocalización de clientes potenciales** | Análisis espacial · Gas natural          | SIG · Geolocalización      |
+| **Susceptibilidad a remoción en masa**      | Riesgos naturales · Análisis territorial | SIG · Análisis espacial    |
 
 ---
 
