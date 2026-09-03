@@ -21,8 +21,10 @@ Análisis y visualización: Excel, Power BI
 Infraestructura: Apache Tomcat
 
 También cuento con capacitaciones y certificaciones relacionadas con herramientas SIG y con la normativa ambiental chilena, particularmente en materias asociadas al Sistema de Evaluación de Impacto Ambiental (SEIA).
+---
 
 ### Experiencia Destacada
+
 | Proyecto                                    | Área                                     | Tecnologías / herramientas |
 | ------------------------------------------- | ---------------------------------------- | -------------------------- |
 | **Geolocalización de clientes potenciales** | Análisis espacial · Gas natural          | SIG · Geolocalización      |
