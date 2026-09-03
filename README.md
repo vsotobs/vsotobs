@@ -28,4 +28,4 @@ Me apasiona transformar datos espaciales y territoriales en soluciones estratég
 ### ¿Cómo contactarme?
 * **Correo:** valeriasotobs@gmail.com
 * **Teléfono / WhatsApp:** +569 4065 1512
-* **LinkedIn:** [Perfil de LinkedIn](https://linkedin.com)
+* **LinkedIn:** [Perfil de LinkedIn (https://www.linkedin.com/in/valeria-soto-bast%C3%ADas-b352473b6/)]
