@@ -7,7 +7,7 @@
 </p>
 
 ### ¿Quién soy y a qué me dedico?
-Soy **Geógrafa titulada de la Universidad de Concepción** y cuento con un Diplomado en *SIG y Teledetección Aplicados a la Gestión de Recursos Naturales y la Minería*. 
+Soy **Geógrafa** titulada de la Universidad de Concepción y cuento con un Diplomado en SIG y Teledetección Aplicados a la Gestión de Recursos Naturales y la Minería. 
 
 Me apasiona transformar datos espaciales y territoriales en soluciones estratégicas mediante el uso de herramientas geomáticas avanzadas como ArcGIS Pro, QGIS y bases de datos espaciales.
 
@@ -27,6 +27,6 @@ Me apasiona transformar datos espaciales y territoriales en soluciones estratég
 ---
 
 ### ¿Cómo contactarme?
-* 📧 **Correo:** valeriasotobs@gmail.com
-* 📱 **Teléfono / WhatsApp:** +569 4065 1512
-* 🔗 **LinkedIn:** [Perfil de LinkedIn](https://linkedin.com)
+* **Correo:** valeriasotobs@gmail.com
+* **Teléfono / WhatsApp:** +569 4065 1512
+* **LinkedIn:** [Perfil de LinkedIn](https://linkedin.com)
