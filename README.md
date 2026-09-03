@@ -21,7 +21,7 @@ Me apasiona transformar datos espaciales y territoriales en soluciones estratég
 ---
 
 ### Experiencia Destacada
-* **Analista SIG en IDG TerraGIS (Gas Sur):** Proyecto en alianza con Gas Sur de geolocalización y análisis de áreas de extracción de gas natural dando como resultado principal más de 12.000 clientes potenciales distribuidos en 6 comunas.
+* **Analista SIG en IDG TerraGIS:** Proyecto en alianza con Gas Sur de geolocalización y análisis de áreas de extracción de gas natural dando como resultado principal más de 12.000 clientes potenciales distribuidos en 6 comunas.
 * **EGSCIENCES:** Análisis de Susceptibilidad de remoción en masa en las comunas de Quilicura y Huechuraba, Santiago, Región Metropolitana, Chile. 
 ---
 
