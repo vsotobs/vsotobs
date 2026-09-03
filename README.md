@@ -14,15 +14,19 @@ Me apasiona transformar datos espaciales y territoriales en soluciones estratég
 ---
 
 ### Habilidades Técnicas y Herramientas SIG
-* **Sistemas de Información Geográfica:** ArcGIS Pro, QGIS, ArcGIS Online.
-* **Análisis Territorial:** Modelamiento de riesgos naturales, geomática y gestión ambiental.
-* **Desarrollo Web Mapping / Programación:** Python básico, Git, GitHub Pages.
+* **Sistemas de Información Geográfica:** ArcMap, ArcGIS Pro, QGIS, Google Earth Engine.
+* **Bases de Datos y Desarrollo Geoespacial:** PostGIS, GeoServer, PostgreSQL, Apache Tomcat.
+* **Desarrollo Web Mapping / Programación:** Python, Leaflet, Java, HTML, CSS, GitHub.
+* * **Microsoft Office:** Power BI, Excel, Word.
+
+Además, cuento con capacitaciones y certificaciones asociadas al manejo de softwares SIG y como también a normativa ambiental correspondiente al Sistema de Evaluación de Impacto Ambiental en Chile. 
 
 ---
 
 ### Experiencia Destacada
 * **Analista SIG en IDG TerraGIS:** Proyecto en alianza con Gas Sur de geolocalización y análisis de áreas de extracción de gas natural dando como resultado principal más de 12.000 clientes potenciales distribuidos en 6 comunas.
-* **EGSCIENCES:** Análisis de Susceptibilidad de remoción en masa en las comunas de Quilicura y Huechuraba, Santiago, Región Metropolitana, Chile. 
+* **EGSCIENCES:** Análisis de Susceptibilidad de remoción en masa en las comunas de Quilicura y Huechuraba, Santiago, Región Metropolitana, Chile.
+
 ---
 
 ### ¿Cómo contactarme?
