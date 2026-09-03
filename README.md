@@ -37,5 +37,5 @@ También cuento con capacitaciones y certificaciones relacionadas con herramient
 
 ### ¿Cómo contactarme?
 * **Correo:** valeriasotobs@gmail.com
-* **Teléfono / WhatsApp:** +569 4065 1512
+* **Teléfono / WhatsApp:** +56 9 4065 1512
 * **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/valeria-soto-bast%C3%ADas-b352473b6/)
