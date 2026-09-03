@@ -17,7 +17,7 @@ Me apasiona transformar datos espaciales y territoriales en soluciones estratég
 * **Sistemas de Información Geográfica:** ArcMap, ArcGIS Pro, QGIS, Google Earth Engine.
 * **Bases de Datos y Desarrollo Geoespacial:** PostGIS, GeoServer, PostgreSQL, Apache Tomcat.
 * **Desarrollo Web Mapping / Programación:** Python, Leaflet, Java, HTML, CSS, GitHub.
-* * **Microsoft Office:** Power BI, Excel, Word.
+* **Microsoft Office:** Power BI, Excel, Word.
 
 Además, cuento con capacitaciones y certificaciones asociadas al manejo de softwares SIG y como también a normativa ambiental correspondiente al Sistema de Evaluación de Impacto Ambiental en Chile. 
 
